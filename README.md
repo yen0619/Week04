@@ -1,2 +1,18 @@
 # week04
-第四周教學內容
+- 第四周教學內容
+  - 複習前三週(可能口頭+講師操作帶過)
+  - RMarkdown簡介
+   - What is RMarkdown?
+   - Why we need RMarkdown?
+  - 詳細介紹RMarkdown
+   - 安裝
+  - 介紹Chunk
+    - 介紹markdown語法
+    - Chunk options
+    - 練習(藉由練習讓學員複習過去上課所教的)
+  - Chunk介紹
+    - 練習
+  - 介紹 Table in RMarkdown
+    - 練習
+  - Table of Contents
+  - 除了輸出HTML，還有其他檔案格式
